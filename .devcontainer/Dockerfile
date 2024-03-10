@@ -54,3 +54,7 @@ ENV TERM=xterm-256color
 
 # Become a regular user
 USER $USERNAME
+
+
+
+https://accounts-sn-labs-mohamedatawf.labs-prod-openshift-san-a45631dc5778dc6371c67d206ba9ae5c-0000.us-east.containers.appdomain.cloud
